@@ -8,7 +8,7 @@ import { ComponentContact } from "./Components/ComponentContact";
 import { ComponentAbout } from "./Components/ComponentAbout";
 import { ComponentProjects } from "./Components/ComponentProjects";
 
-import "./App.css";
+
 
 function App() {
   return (
